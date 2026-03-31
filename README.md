@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo-2.png" alt="Claude Music" width="400">
+</p>
+
 # claude-music marketplace
 
 A Claude Code plugin marketplace for [claude-music](https://github.com/kennethleungty/claude-music) — background music for your AI coding agent sessions.
