@@ -1,5 +1,5 @@
 {
-  "name": "code-music-marketplace",
+  "name": "claude-music-marketplace",
   "owner": {
     "name": "Kenneth Leung"
   },
@@ -9,10 +9,10 @@
   },
   "plugins": [
     {
-      "name": "code-music",
+      "name": "claude-music",
       "source": {
         "source": "url",
-        "url": "https://github.com/kennethleungty/code-music.git"
+        "url": "https://github.com/kennethleungty/claude-music.git"
       },
       "description": "Background music for your coding sessions — lofi, jazz, classical, ambient, electronic, and more",
       "version": "1.0.3",
